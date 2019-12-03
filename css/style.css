@@ -1,0 +1,45 @@
+table{
+    border: 1px;
+    width: 100%;
+    height: 100px;
+}
+th{
+    border: 1px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#imagenprado{
+    position: relative;
+    top: 30px;
+}
+#imagensofia{
+    position: relative;
+    top: 90px;
+    right: 150px;
+}
+#imagentysen{
+    position: relative;
+    top: 160px;
+    right: 290px;
+}
+#cuadropicasso{
+    width: 80%;
+    left: 18%;
+    position: relative;
+    bottom: 50px;
+}
+h1{
+    font-size: 170%;
+}
+#imagenguitarrista{
+    float: left;
+    margin-right: 0.5%;
+}
+#imagenguernica{
+    position: relative;
+    left: 20%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+p{
+    text-align: justify;
+}
