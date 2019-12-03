@@ -1,11 +1,19 @@
 table{
-    border: 1px;
     width: 100%;
     height: 100px;
 }
 th{
     border: 1px solid black;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+@font-face {
+    font-family: "Ethelvina";
+    src: url("../Recursos/fuentes/Ethelvina_Medium.ttf");
+}
+  
+th{
+    border: 1px solid black;
+    font-family: "Ethelvina";
+    font-size: 150%;
 }
 #imagenprado{
     position: relative;
